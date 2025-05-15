@@ -1,6 +1,6 @@
 ## AI is an advanced AI assistant designed to assist users in various tasks efficiently.
 
-![F.R.I.D.A.Y. AI Logo](https://www.freepik.com/premium-ai-image/3d-ai-assistant-icon-artificial-intelligence-virtual-helper-logo-illustration_274048413.htm)
+![Logo](https://github.com/Nishad-Amit/Voice-Reply-AI/blob/main/img)
 
 ## Features
 
